@@ -1,0 +1,3 @@
+C:/Users/igorc/OneDrive/Documentos/C++/projects/temperature_conversion_program/cmake-build-debug/CMakeFiles/temperature_conversion_program.dir
+C:/Users/igorc/OneDrive/Documentos/C++/projects/temperature_conversion_program/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/igorc/OneDrive/Documentos/C++/projects/temperature_conversion_program/cmake-build-debug/CMakeFiles/rebuild_cache.dir
